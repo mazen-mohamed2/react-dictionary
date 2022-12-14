@@ -1,0 +1,38 @@
+{
+  "theme_color": "#000",
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Dictionary",
+  "short_name": "Dictionary",
+  "prefer_related_applications" : true,
+  "icons": [
+    {
+      "src": "img/icons/maskable.png",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/icons/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/icons/logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "img/icons/logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "img/icons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
