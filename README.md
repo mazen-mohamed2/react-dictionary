@@ -22,4 +22,5 @@ This is an web app from which you can search any kind of word and it will give d
   <img width="400" src="https://i.imgur.com/ulzwmbx.png"/>
 </p>
 
-  
+  ## Demo
+  [https://dictionary-api-sit.netlify.app/]
